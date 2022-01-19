@@ -1,2 +1,2 @@
 # Praveen-Chandrasekaran
-My GitHub Pages repository 
+My GitHub Pages repository for portfolio 
